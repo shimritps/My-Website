@@ -354,9 +354,9 @@ nav .fa{
 }
 	
 	.pic1 img{
-    width:40%;
+    width:100%;
 	position:absolute;
-	top:240%;
+	top:245%;
 	left:50%;
 	transform:translate(-50%,-50%);
 	}
@@ -732,7 +732,7 @@ p{
 	width:80%;
 	margin:auto;
 	text-align:center;
-	padding-top:100px;
+	padding-top:10%;
 	align-items:center;
 	align-justify:center;
 
@@ -903,7 +903,7 @@ button:hover{
 	width:80%;
 	margin:auto;
 	text-align:center;
-	padding-top:420px;
+	padding-top:40%;
 	align-items:center;
 	align-justify:center;
 	}
@@ -933,7 +933,7 @@ button:hover{
 	align-justify:center;
 	align-items:center;
 	text-align:center;
-	margin-top:90px;
+	margin-top:92px;
 	}
 	.icon1{
 
