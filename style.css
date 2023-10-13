@@ -919,6 +919,7 @@ button:hover{
 	    margin-top:1320px;		
 	}
 	
+	
 		.box h3{
 		font-size:17px;
 		font-weight:600;
@@ -930,6 +931,17 @@ button:hover{
 		font-weight:600;
 		color:#bfbfbf;
 	}	
+	
+	.row2{
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+}
+
+.row2 .input-group{
+	flex-basis:47%;
+	
+}
 	
 	form{
 	width:90%;
