@@ -356,7 +356,7 @@ nav .fa{
 	.pic1 img{
 	width:250px;
 	position:absolute;
-	top:230%;
+	top:235%;
 	left:45%;
 	transform:translate(-40%,-50%);
 	}
@@ -915,7 +915,7 @@ button:hover{
 	    justify-content:space-between;
 	    position:absolute;
 	    left:-200px;
-	    margin-top:1010px;
+	    margin-top:1050px;
 	}
 	
 		.box h3{
