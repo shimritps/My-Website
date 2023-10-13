@@ -293,7 +293,7 @@ nav .fa{
 }
 
 .pic1 img{
-    width:35%;
+    width:30%;
 	position:absolute;
 	top:215%;
 	left:76%;
@@ -326,6 +326,9 @@ nav .fa{
 	.Welcome-to-My-site{
 	padding-top:40px;
 	width:100%;
+	margin:auto;
+	text-align:center;
+	align-justify:center;
 	}
 	
 	.under-line{
@@ -356,9 +359,9 @@ nav .fa{
 	.pic1 img{
 	width:250px;
 	position:absolute;
-	top:247%;
-	left:45%;
-	transform:translate(-40%,-50%);
+	top:238%;
+	left:50%;
+	transform:translate(-50%,-50%);
 	}
 
 	
@@ -732,10 +735,9 @@ p{
 	width:80%;
 	margin:auto;
 	text-align:center;
-	padding-top:10%;
+	padding-top:110px;
 	align-items:center;
 	align-justify:center;
-
 }
 
 .contact-me h1{
@@ -903,7 +905,7 @@ button:hover{
 	width:80%;
 	margin:auto;
 	text-align:center;
-	padding-top:15%;
+	padding-top:15px;
 	align-items:center;
 	align-justify:center;
 	}
@@ -911,11 +913,10 @@ button:hover{
 	
 	.contact-info{
 		display:flex;
-		align-items:center;
 	    justify-content:space-between;
 	    position:absolute;
 	    left:-200px;
-	    margin-top:1300px;
+	    margin-top:1020px;		
 	}
 	
 		.box h3{
@@ -960,7 +961,7 @@ button:hover{
 	width:30%;
 	position:absolute;
 	margin-left:-4%;
-	top:20%;
+	top:10%;
 	color:#DFC0BD;
 }
 
@@ -972,7 +973,7 @@ button:hover{
 	width:30%;
 	position:absolute;
 	margin-left:-12%;
-	top:20%;
+	top:10%;
 }
 
 }
