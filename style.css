@@ -354,12 +354,11 @@ nav .fa{
 }
 	
 	.pic1 img{
-    width:95%;
-	margin:auto;
+	width:250px;
 	position:absolute;
-	top:1562px;
-	left:208px;
-	transform:translate(-50%,-50%);
+	top:245%;
+	left:45%;
+	transform:translate(-40%,-50%);
 	}
 
 	
