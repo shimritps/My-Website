@@ -354,10 +354,10 @@ nav .fa{
 }
 	
 	.pic1 img{
-    width:100%;
+    width:95%;
 	position:absolute;
-	top:250%;
-	left:50%;
+	top:1562px;
+	left:212px;
 	transform:translate(-50%,-50%);
 	}
 
@@ -911,8 +911,8 @@ button:hover{
 	.contact-info{
 		display:flex;
 	    position:absolute;
-	    left:-200%;
-	    margin-top:1274%;
+	    left:-170px;
+	    margin-top:1040px;
 	}
 	
 		.box h3{
@@ -943,7 +943,7 @@ button:hover{
 	position:relative;
 	width:30%;
 	position:absolute;
-	margin-left:-15%;
+	margin-left:-19%;
 	top:10%;
 	color:#DFC0BD;
 	
@@ -956,7 +956,7 @@ button:hover{
 	position:relative;
 	width:30%;
 	position:absolute;
-	margin-left:-5%;
+	margin-left:-4%;
 	top:11%;
 	color:#DFC0BD;
 }
@@ -968,7 +968,7 @@ button:hover{
 	position:relative;
 	width:30%;
 	position:absolute;
-	margin-left:-12%;
+	margin-left:-15%;
 	top:11%;
 }
 
